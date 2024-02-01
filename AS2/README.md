@@ -1,1 +1,1 @@
-![MapaMental](./MapaMental.png)
+![MapaMental](./MapaMental0.png)
